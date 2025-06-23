@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda Project folder
+anaconda_projects/
+
+# Ignore custom text file
+bank-names.txt
