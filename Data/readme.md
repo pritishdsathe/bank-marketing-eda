@@ -51,7 +51,6 @@ This dataset is widely used for classification tasks, customer profiling, and ma
 
 ## Notes
 
-- The attribute `duration` highly affects the output target (e.g., if duration=0 then y='no'). Usually, this attribute should be discarded when building predictive models.
 - Some attributes contain 'unknown' values which represent missing or undisclosed information.
 
 ---
